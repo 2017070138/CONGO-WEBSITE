@@ -21,8 +21,7 @@
 		<li>Gallery
 </li>
 		<li>Contact
-</li>
-		
+</li>		
 <p>For better illustrations i am going to use pictures and short videos.
 </p>
 	</ol>
@@ -34,9 +33,7 @@
 		<li>JQuery</li>
 		<li>javascript</li>
 	</ul>
-	
-	    <h2> Plan for project </h2>
-	    
+	    <h2> Plan for project </h2>   
 	<ul>
 		<li>week9- I am going to  work on my web site home page</li>
 		<li>week10- I am going to work on the second page of my web site</li>
@@ -46,10 +43,7 @@
 		<li>week14-MaI am going to work on the backend of my web site </li>
 		<li>week15-am going to finish all my web site backend</li>
 		<li>week16-Submit Project</li>
-	
 	</ul>
 		
-
-
 </body>
 </html>
