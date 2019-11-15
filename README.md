@@ -26,7 +26,6 @@
 <p>For better illustrations i am going to use pictures and short videos.
 </p>
 	</ol>
-
 	<h2>Technology</h2>
 	<ul>
 		<li>HTML</li>
@@ -35,7 +34,9 @@
 		<li>JQuery</li>
 		<li>javascript</li>
 	</ul>
-	<h2>Plan for project</h2>
+	
+	    <h2> Plan for project </h2>
+	    
 	<ul>
 		<li>week9- I am going to  work on my web site home page</li>
 		<li>week10- I am going to work on the second page of my web site</li>
